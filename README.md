@@ -9,14 +9,13 @@
 * **Bokbörsen Multi Search** 
 – C# Blazor web tool to search for multiple books at once on *Bokbörsen* (a Swedish used-books marketplace) and find single sellers who have many of them. *Why?* On Bokbörsen, shipping is per seller – this tool helps you save on shipping by bundling purchases from one seller. **[Repo](https://github.com/gherghett/Bokborsen-Multi-Search)** · **[Live Demo](https://bokborsenmultisearch.grgta.xyz)**
 
-
 * **Personal Site Generator** *(Daniels-Hemsida)* – The source code behind [**grgta.xyz**](https://grgta.xyz), my personal website. It’s a custom **static site generator** built from scratch in Python using Markdown files for content. I built this to learn how static site generators work under the hood (instead of using off-the-shelf solutions). **[Repo](https://github.com/gherghett/Daniels-Hemsida)**
 
 * **Visual Clones** – Recreating the look and feel of real websites to sharpen my frontend skills:
 
   * *SCB.se Clone* – HTML/CSS (Tailwind) visual **clone of the SCB** (Statistics Sweden) website, practicing responsive design and layout. **[Repo](https://github.com/gherghett/SCB-klon)** **[See demo](https://gherghett.github.io/SCB-klon/)**
   * *Systembolaget Clone* – A study of CSS Grid by replicating **Systembolaget’s** design. **[Repo](https://github.com/gherghett/Systemet)** **[See demo](https://gherghett.github.io/Systemet/)**
-  * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images.**[Repo](https://github.com/gherghett/Streamflix/)** **[See demo](hhttps://gherghett.github.io/Streamflix/)**
+  * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images. **[Repo](https://github.com/gherghett/Streamflix/)** **[See demo](https://gherghett.github.io/Streamflix/)**
 
 * **Games** – A few hobby game projects, because why not:
   <img align="right" src="https://github.com/gherghett/DOM-Snake/raw/master/snake.gif" alt="Alt Text" width="300"> 
