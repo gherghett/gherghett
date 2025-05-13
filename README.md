@@ -14,7 +14,7 @@
 * **Visual Clones** – Recreating the look and feel of real websites to sharpen my frontend skills:
 
   * *SCB.se Clone* – HTML/CSS (Tailwind) visual **clone of the SCB** (Statistics Sweden) website, practicing responsive design and layout. **[Repo](https://github.com/gherghett/SCB-klon)** **[See demo](https://gherghett.github.io/SCB-klon/)**
-  * *Systembolaget Clone* – A study of CSS Grid by replicating **Systembolaget’s** design. **[Repo](https://github.com/gherghett/Systemet)** **[See demo](https://gherghett.github.io/Systemet/)**
+  * *Systembolaget Clone* – A study of CSS Grid by replicating **Systembolaget’s** design. **[Repo](https://github.com/gherghett/Systemet)** **[See demo](https://gherghett.github.io/Systemet/tailwind)**
   * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images. **[Repo](https://github.com/gherghett/Streamflix/)** **[See demo](https://gherghett.github.io/Streamflix/)**
 
 * **Games** – A few hobby game projects, because why not:
