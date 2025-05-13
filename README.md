@@ -4,8 +4,8 @@
 **Fullstack dreamer** and code tinkerer in Borås, Sweden, currently one year into my systemutvecklare program at **YrkesHögskolan Borås**. I love experimenting with new technologies and working with others building all sorts of projects – from web tools and design clones to little games and handy CLI utilities.
 
 ## 🚀 Projects & Highlights
+<img align="right" src="bokbors_search_screenshot.png" alt="Alt Text" width="300">
 
- <img style="float:right" src="bokbors_search_screenshot.png" alt="Alt Text" width="300"> 
 * **Bokbörsen Multi Search** 
 – C# Blazor web tool to search for multiple books at once on *Bokbörsen* (a Swedish used-books marketplace) and find single sellers who have many of them. *Why?* On Bokbörsen, shipping is per seller – this tool helps you save on shipping by bundling purchases from one seller. **[Repo](https://github.com/gherghett/Bokborsen-Multi-Search)** · **[Live Demo](https://bokborsenmultisearch.grgta.xyz)**
 
@@ -19,8 +19,8 @@
   * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images.
 
 * **Games** – A few hobby game projects, because why not:
+  <img align="right" src="https://github.com/gherghett/DOM-Snake/raw/master/snake.gif" alt="Alt Text" width="300"> 
 
-  <img style="float:right" src="https://github.com/gherghett/DOM-Snake/raw/master/snake.gif" alt="Alt Text" width="300"> 
   * *DOM Snake* 
   – A twist on the classic Snake game written in **vanilla JS**, rendered entirely with HTML/CSS (no canvas). It gets tricky as the snake grows! **[Repo](https://github.com/gherghett/DOM-Snake)** **[Play](https://gherghett.github.io/DOM-Snake/)**
 
@@ -31,7 +31,7 @@
 
   * *Calendar Todo App in React* - A simple responsive calendar-based todo list built using React and Tailwind CSS. Without using a full bundler setup - kind of crazy how far you can get with CDNs! **[Repo](https://github.com/gherghett/Calendar-Todo-App-in-React)** **[Demo](https://gherghett.github.io/Calendar-Todo-App-in-React/)**
 
-  <img style="float:right" src="https://github.com/gherghett/Draggable-Cards---React-Vite/raw/master/Cards.gif" alt="Alt Text" width="300"> 
+  <img align="right" src="https://github.com/gherghett/Draggable-Cards---React-Vite/raw/master/Cards.gif" alt="Alt Text" width="300"> 
 
   * *Draggable Cards - React & Vite* - UI demo of draggable, animated cards — inspired by cards in games like Pokémon or Magic: The Gathering. Not best fit for React but the cards were the starting point of the idea. This was a fun UI experiment to explore drag mechanics in JS. **[Repo](https://github.com/gherghett/Draggable-Cards---React-Vite)** **[Demo](https://gherghett.github.io/Draggable-Cards---React-Vite/)**
 
