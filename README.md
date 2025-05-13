@@ -14,9 +14,9 @@
 
 * **Visual Clones** – Recreating the look and feel of real websites to sharpen my frontend skills:
 
-  * *SCB.se Clone* – HTML/CSS (Tailwind) visual **clone of the SCB** (Statistics Sweden) website, practicing responsive design and layout. **[Repo](https://github.com/gherghett/SCB-klon)**
-  * *Systembolaget Clone* – A study of CSS Grid by replicating **Systembolaget’s** design. **[Repo](https://github.com/gherghett/Systemet)**
-  * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images.
+  * *SCB.se Clone* – HTML/CSS (Tailwind) visual **clone of the SCB** (Statistics Sweden) website, practicing responsive design and layout. **[Repo](https://github.com/gherghett/SCB-klon)** **[See demo](https://gherghett.github.io/SCB-klon/)**
+  * *Systembolaget Clone* – A study of CSS Grid by replicating **Systembolaget’s** design. **[Repo](https://github.com/gherghett/Systemet)** **[See demo](https://gherghett.github.io/Systemet/)**
+  * *“Streamflix”* – A Netflix-inspired streaming UI concept with **AI-generated movie posters**. This was a fun project to explore creative web design (and play with AI image generation). Spent a whole day on prompting the images.**[Repo](https://github.com/gherghett/Streamflix/)** **[See demo](hhttps://gherghett.github.io/Streamflix/)**
 
 * **Games** – A few hobby game projects, because why not:
   <img align="right" src="https://github.com/gherghett/DOM-Snake/raw/master/snake.gif" alt="Alt Text" width="300"> 
@@ -24,7 +24,7 @@
   * *DOM Snake* 
   – A twist on the classic Snake game written in **vanilla JS**, rendered entirely with HTML/CSS (no canvas). It gets tricky as the snake grows! **[Repo](https://github.com/gherghett/DOM-Snake)** **[Play](https://gherghett.github.io/DOM-Snake/)**
 
-  * *You Are The Weapons Manager* – A **Godot** game jam entry (PirateSoftware Jam #16) that flips the Vampire Survivors genre on its head – instead of being the hero, you manage the hero’s weapons and upgrades. **[Repo](https://github.com/gherghett/YouAreTheWeaponsManager)**
+  * *You Are The Weapons Manager* – A **Godot** game jam entry (PirateSoftware Jam #16) that flips the Vampire Survivors genre on its head – instead of being the hero, you manage the hero’s weapons and upgrades. **[Repo](https://github.com/gherghett/YouAreTheWeaponsManager)** **[Play on itch.io](https://gherghetta.itch.io/you-are-the-weapons-manager)**
   * *Pinball* – A mini browser **pinball game** built to try the Godot game engine. It has a twist after the first level. Play it on my site! **[Play Here](https://grgta.xyz/stuff/pinball/)**
 
 * **Web Dev**
@@ -33,7 +33,7 @@
 
   <img align="right" src="https://github.com/gherghett/Draggable-Cards---React-Vite/raw/master/Cards.gif" alt="Alt Text" width="300"> 
 
-  * *Draggable Cards - React & Vite* - UI demo of draggable, animated cards — inspired by cards in games like Pokémon or Magic: The Gathering. Not best fit for React but the cards were the starting point of the idea. This was a fun UI experiment to explore drag mechanics in JS. **[Repo](https://github.com/gherghett/Draggable-Cards---React-Vite)** **[Demo](https://gherghett.github.io/Draggable-Cards---React-Vite/)**
+  * *Draggable Cards - React & Vite* - UI demo of draggable, animated cards — inspired by cards in games like Pokémon or Magic: The Gathering, made with CSS/HTML and adapted into React components. This was a fun UI experiment to explore drag mechanics in JS. **[Repo](https://github.com/gherghett/Draggable-Cards---React-Vite)** **[Demo](https://gherghett.github.io/Draggable-Cards---React-Vite/)**
 
 
 * **CLI Tools** – Little command-line utilities to automate tasks and make life easier:
