@@ -1,7 +1,7 @@
 # Daniel Gherghetta
 **Welcome to my GitHub**
 
-**Fullstack dreamer** and code tinkerer in Borås, Sweden, currently one year into my systemutvecklare program at **YrkesHögskolan Borås**. I love experimenting with new technologies and working with others building all sorts of projects – from web tools and design clones to little games and handy CLI utilities.
+**Aiming for Fullstack** and code tinkerer in Borås, Sweden, currently one year into my systemutvecklare program at **YrkesHögskolan Borås**. I love experimenting with new technologies and working with others building all sorts of projects – from web tools and design clones to little games and handy CLI utilities.
 
 ## 🚀 Projects & Highlights
 <img align="right" src="bokbors_search_screenshot.png" alt="Alt Text" width="300">
