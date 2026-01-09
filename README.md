@@ -54,6 +54,6 @@
 
 ## 🌱 What I’m Up To
 
-Aside from school projects and the ones above, I’m always tinkering with new ideas and learning new tech. Lately, I've been exploring AI APIs, responsive design techniques, and the Godot game engine.
+Aside from school projects and the ones above, I’m always tinkering with new ideas and learning new tech. Lately, I've been flirting with 3D and three.js, and working at Brainforest in Borås and digging through their operations and backend.
 
 **➡️ Feel free to check out my personal site [grgta.xyz](https://grgta.xyz)** for more projects, info about me, and links to connect (like my LinkedIn). Thanks for reading! 🎉
