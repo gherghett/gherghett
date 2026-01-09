@@ -9,6 +9,16 @@
 * **Bokbörsen Multi Search** 
 – C# Blazor web tool to search for multiple books at once on *Bokbörsen* (a Swedish used-books marketplace) and find single sellers who have many of them. *Why?* On Bokbörsen, shipping is per seller – this tool helps you save on shipping by bundling purchases from one seller. **[Repo](https://github.com/gherghett/Bokborsen-Multi-Search)** · **[Live Demo](https://bokborsenmultisearch.grgta.xyz)**
 
+* **Poker Bot Tournament Runner** *(PokerBots Borås)*
+  – A **C# tournament engine** for running automated poker bot competitions. 
+  * **CI/CD Pipeline**: Hourly automated tournaments via **GitHub Actions**
+  * **Containerization**: Bots can be submitted as **Docker images** (via GitHub Container Registry)
+  * **Live Results**: ELO-based rating system at [pokerbotsboras.grgta.xyz](https://pokerbotsboras.grgta.xyz/ratings.html)
+  
+  Through this project I learned about **containerization** (Docker, GHCR), **CI/CD pipelines** (GitHub Actions workflows), and inter-process communication (JSON over stdin/stdout).
+  
+  **[Repo](https://github.com/PokerBotsBoras/TournamentRunner)** · **[Live Leaderboard](https://pokerbotsboras.grgta.xyz/ratings.html)** 
+
 * **Personal Site Generator** *(Daniels-Hemsida)* – The source code behind [**grgta.xyz**](https://grgta.xyz), my personal website. It’s a custom **static site generator** built from scratch in Python using Markdown files for content. I built this to learn how static site generators work under the hood (instead of using off-the-shelf solutions). **[Repo](https://github.com/gherghett/Daniels-Hemsida)**
 
 * **Visual Clones** – Recreating the look and feel of real websites to sharpen my frontend skills:
